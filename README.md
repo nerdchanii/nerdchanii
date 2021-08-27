@@ -9,4 +9,5 @@
 -    because, there is so many thing I want to do.
 - I'm currently interesting ComputerVison, BackEnd, FrontEnd, ML.
 -
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narongchan&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
