@@ -8,7 +8,7 @@
 - 🌱 I’m learning python, Java, Javascript. 
 - 👨🏻‍💻 I don't decide my career path yet.t.t...
       because, there is so many thing I want to do.
-- I'm currently interesting ComputerVison, BackEnd, FrontEnd, ML.
+- ✨I'm currently interesting ComputerVison, BackEnd, FrontEnd, ML.
 
 
 
