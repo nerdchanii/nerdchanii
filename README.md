@@ -9,8 +9,8 @@
 -->
 
 ### Hi there 👋
-- 🔭 I’m now working on social service Agent instead of military serivce
-- 🌱 I’m learning Javascript, Typescript, python. 
+- 🔭 I’m looking for Job.
+- 🌱 I’m learning Javascript, Typescript, python. Rust
 - ✨I'm currently interesting FrontEnd.
 
 
