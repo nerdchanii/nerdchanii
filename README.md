@@ -4,20 +4,16 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdchanii&count_private=true&&theme=onedark&show_icons=true&icon_color=4a3)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**narongchan/narongchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-### my project 
-#### socket-store for using websocket easily
-- [socket-store](https://npmjs.org/package/socket-store)
-- [react-socket-store](https://npmjs.org/package/react-socket-store)
-
-
 ### Hi there 👋
 - 🔭 I’m looking for Job.
 - 🌱 I’m learning Javascript, Typescript, python. Rust
 - ✨I'm currently interesting FrontEnd.
 
+
+### My project 
+
+#### socket-store for using websocket easily
+- [socket-store](https://npmjs.org/package/socket-store)
+- [react-socket-store](https://npmjs.org/package/react-socket-store)
 
 
