@@ -8,6 +8,12 @@
 **narongchan/narongchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+### my project 
+#### socket-store for using websocket easily
+- [socket-store](https://npmjs.org/package/socket-store)
+- [react-socket-store](https://npmjs.org/package/react-socket-store)
+
+
 ### Hi there 👋
 - 🔭 I’m looking for Job.
 - 🌱 I’m learning Javascript, Typescript, python. Rust
