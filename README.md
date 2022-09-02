@@ -14,6 +14,7 @@
 - [socket-store](https://npmjs.org/package/socket-store)
 - [react-socket-store](https://npmjs.org/package/react-socket-store)
 
+
 ### codesparring for web based online real-time code battle.
 
 - [codesparring-client](https://github.com/nerdchanii/codesparring-client)
@@ -22,4 +23,4 @@
 ---
 
 
-**[My Playground](https://nerdchanii.github.com)**
+**[My Playground](https://nerdchanii.github.io)**
