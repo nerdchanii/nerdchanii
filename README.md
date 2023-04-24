@@ -20,6 +20,11 @@
 - [codesparring-client](https://github.com/nerdchanii/codesparring-client)
 - [codesparring-server](https://github.com/nerdchanii/codesparring-server)
 
+
+### RPM
+- [rpm](https://github.com/nerdchanii/rpm) 
+- It is a fast and easy-to-use package manager for Node.js
+- It is built with Rust and aims to provide fast performance for managing your Node.js packages.
 ---
 
 
