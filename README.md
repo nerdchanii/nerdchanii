@@ -25,7 +25,10 @@
 - [rpm](https://github.com/nerdchanii/rpm) 
 - It is a fast and easy-to-use package manager for Node.js
 - It is built with Rust and aims to provide fast performance for managing your Node.js packages.
+
+### my-parents.day
+- It was made to celebrate Parents' Day in kroea
+- [web](https://my-parents.day)
+- [repository](https://github.com/oh-my-parents/www)
 ---
-
-
 **[My Playground](https://nerdchanii.github.io)**
