@@ -28,7 +28,9 @@
 
 ### my-parents.day
 - It was made to celebrate Parents' Day in kroea
-- [web](https://my-parents.day)
+
 - [repository](https://github.com/oh-my-parents/www)
+- [web](https://my-parents.day)
+  * The server is currently offline
 ---
 **[My Playground](https://nerdchanii.github.io)**
