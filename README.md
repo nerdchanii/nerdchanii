@@ -30,7 +30,7 @@
 - It was made to celebrate Parents' Day in kroea
 
 - [repository](https://github.com/oh-my-parents/www)
-- [web](https://my-parents.day)
-  * The server is currently offline
+- ~~[web](https://my-parents.day)~~ 
+  * currently offline
 ---
 **[My Playground](https://nerdchanii.github.io)**
