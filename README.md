@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=nerdchanii&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20%7C%20Full-Stack%20%7C%20Rust%20%7C%20Open%20Source&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=nerdchanii&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%7C%20Local%20LLM%20%7C%20TypeScript%20%7C%20Open%20Source&descAlignY=60&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Hi+there%2C+I'm+nerdchanii+%F0%9F%91%8B;AI%2FML+%7C+RAG+%7C+Full-Stack+%7C+Rust)](https://github.com/nerdchanii)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Hi+there%2C+I'm+nerdchanii+%F0%9F%91%8B;Full-Stack+%7C+Local+LLM+%7C+Product+Builder)](https://github.com/nerdchanii)
 
 </div>
 
@@ -10,8 +10,9 @@
 
 ## 🙋 About Me
 
-- 🔬 I'm deeply interested in **AI/ML** — especially **RAG** and improving the **observability of AI agents** in NLP tasks.
-- 🔭 Currently **looking for a job** — open to new opportunities!
+- 🤖 Building practical **AI tools** — local LLM agents with **Ollama & MCP**, and integrating AI into real products
+- 🏃 Currently building **[mastersrunners](https://github.com/nerdchanii/mastersrunners)** — a training & community platform for Korean runners
+- 🧩 Interested in **full-stack product development**, **LLM tooling**, and **algorithm problem solving**
 - ✍️ I write about what I learn on my **[Blog](https://nerdchanii.github.io)**
 
 ---
@@ -31,12 +32,24 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Backend & Tools**
+**Backend & Infra**
 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**AI / LLM**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 </div>
 
@@ -69,6 +82,24 @@
 
 ## 🚀 My Projects
 
+### 🏃 mastersrunners — Training & Community Platform for Korean Runners
+> Full-stack monorepo for workout logging, crew management, and social features
+
+- [📂 Repository](https://github.com/nerdchanii/mastersrunners)
+- **Stack**: Vite + React 19 · NestJS · Prisma + PostgreSQL · Cloudflare R2
+- 🟢 Actively in development
+
+---
+
+### 🤖 jindo — Local LLM Agent CLI
+> Ollama-based MCP agent with a local model and interactive CLI interface
+
+- [📂 Repository](https://github.com/nerdchanii/jindo)
+- **Stack**: TypeScript · Ollama · Model Context Protocol (MCP)
+- 🟢 Actively in development
+
+---
+
 ### 📦 socket-store — WebSocket made easy
 > Simple state management via WebSocket for JavaScript & React
 
@@ -81,7 +112,7 @@
 > Built with **Rust** for blazing-fast package management
 
 - [📂 Repository](https://github.com/nerdchanii/rpm)
-- Currently working on improving package resolution strategy
+- 🔶 Paused
 
 ---
 
@@ -90,14 +121,6 @@
 
 - ~~[codesparring-client](https://github.com/nerdchanii/codesparring-client)~~ · ~~[codesparring-server](https://github.com/nerdchanii/codesparring-server)~~
 - 🔴 Currently offline
-
----
-
-### 💐 oh-my-parents
-> A web app made to celebrate Parents' Day in Korea 🇰🇷
-
-- [📂 Repository](https://github.com/oh-my-parents/www)
-- ~~[🌐 Web](https://my-parents.day)~~ · 🔴 Currently offline
 
 ---
 
