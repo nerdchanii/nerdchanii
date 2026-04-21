@@ -10,9 +10,8 @@
 
 ## 🙋 About Me
 
-- 🤖 Building practical **AI tools** — local LLM agents with **Ollama & MCP**, and integrating AI into real products
 - 🏃 Currently building **[mastersrunners](https://github.com/nerdchanii/mastersrunners)** — a training & community platform for Korean runners
-- 🧩 Interested in **full-stack product development**, **LLM tooling**, and **algorithm problem solving**
+- 🧩 Interested in **full-stack product development** and **algorithm problem solving**
 - ✍️ I write about what I learn on my **[Blog](https://nerdchanii.github.io)**
 
 ---
@@ -96,7 +95,7 @@
 
 - [📂 Repository](https://github.com/nerdchanii/jindo)
 - **Stack**: TypeScript · Ollama · Model Context Protocol (MCP)
-- 🟢 Actively in development
+- 🔶 Paused
 
 ---
 
