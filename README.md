@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm nerdchanii
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=nerdchanii&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20%7C%20Full-Stack%20%7C%20Rust%20%7C%20Open%20Source&descAlignY=60&descSize=18" />
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnerdchanii&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Hi+there%2C+I'm+nerdchanii+%F0%9F%91%8B;AI%2FML+%7C+RAG+%7C+Full-Stack+%7C+Rust)](https://github.com/nerdchanii)
 
 </div>
 
@@ -49,6 +49,20 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nerdchanii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdchanii&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nerdchanii&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nerdchanii&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
+
 </div>
 
 ---
@@ -89,6 +103,6 @@
 
 <div align="center">
 
-✉️ Feel free to reach out — let's build something great together!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
