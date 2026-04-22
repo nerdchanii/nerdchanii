@@ -11,7 +11,6 @@
 ## 🙋 About Me
 
 - 🏃 Currently building **[mastersrunners](https://github.com/nerdchanii/mastersrunners)** — a training & community platform for Korean runners
-- 🤝 Building **[doum](https://github.com/nerdchanii/doum)** — a new side project in progress
 - 🧩 Interested in **full-stack product development** and **algorithm problem solving**
 - ✍️ I write about what I learn on my **[Blog](https://nerdchanii.github.io)**
 
@@ -97,14 +96,6 @@
 - [📂 Repository](https://github.com/nerdchanii/jindo)
 - **Stack**: TypeScript · Ollama · Model Context Protocol (MCP)
 - 🔶 Paused
-
----
-
-### 🤝 doum — (New Project)
-> Work in progress
-
-- [📂 Repository](https://github.com/nerdchanii/doum)
-- 🟢 Actively in development
 
 ---
 
