@@ -1,37 +1,46 @@
+# Hi, I'm nerdchanii.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnerdchanii&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+I build **AI agent systems, developer tools, and real-time collaborative software**.
 
-### Hi, I'm nerdchanii.
-- 🔬 I’m currently interested in AI/ML—especially RAG and improving the observability of AI agents in NLP tasks.
-- 🔭 I’m looking for Job.
+I’m especially interested in making agentic software easier to operate in practice: explicit tool contracts, reliable execution loops, observable workflows, and systems that can keep improving without hiding their state.
 
-## My project 
+## Selected work
 
-### socket-store for using websocket easily.
+### [RPM — Rapid Node Package Manager](https://github.com/nerdchanii/rpm)
 
-- [socket-store](https://npmjs.org/package/socket-store)
-- [react-socket-store](https://npmjs.org/package/react-socket-store)
+A fast, Rust-based package manager for Node.js. Alongside package-management work, the repository is also where I experiment with spec-driven development, validation gates, and agent-assisted engineering workflows.
 
+`Rust` · `CLI` · `package resolution` · `CI` · `agent workflows`
 
-### codesparring for web based online real-time code battle.
+### [Jindo — Ollama-based MCP Agent](https://github.com/nerdchanii/jindo)
 
-- ~~[codesparring-client](https://github.com/nerdchanii/codesparring-client)~~
-- ~~[codesparring-server](https://github.com/nerdchanii/codesparring-server)~~
-  * currently offline
+A local-first MCP agent with separate conversation/function-calling paths, multi-provider routing, built-in tools, and an Ink-based terminal UI.
 
-### RPM
-- [rpm](https://github.com/nerdchanii/rpm) 
-- It is a fast and easy-to-use package manager for Node.js
-- It is built with Rust and aims to provide fast performance for managing your Node.js packages.
-  - now, it has problem with package resolutions strategy
-    
-### oh-my-parents
-- It was made to celebrate Parents' Day in kroea
+`MCP` · `Ollama` · `tool use` · `multi-provider` · `TUI`
 
-- [repository](https://github.com/oh-my-parents/www)
-- ~~[web](https://my-parents.day)~~ 
-  * currently offline
----
+### [Realtime Markdown Editor](https://github.com/nerdchanii/realtime-markdown-editor)
 
+A collaborative document workspace built around rich Markdown editing, CRDT-based real-time synchronization, offline recovery, and document checkpoints.
 
-## [Blog](https://nerdchanii.github.io)
+`React` · `TypeScript` · `TipTap` · `Yjs` · `Hocuspocus` · `NestJS` · `PostgreSQL`
+
+### [New News — News Frame Analysis](https://github.com/nerdchanii/new-news)
+
+An NLP pipeline for discovering framing patterns in Korean news and analyzing their relationship with media bias using topic modeling, classification, statistical analysis, and interactive reports.
+
+`Python` · `NLP` · `BERTopic` · `KoBERT` · `ML`
+
+## What I care about
+
+- Agent systems with explicit tools, state, and execution boundaries
+- Evaluation, observability, and reliable automation around LLM workflows
+- Developer tooling that removes repetitive work without hiding important decisions
+- Real-time and collaborative systems where state consistency actually matters
+
+## Earlier open-source work
+
+- [socket-store](https://github.com/nerdchanii/socket-store) / [react-socket-store](https://github.com/nerdchanii/react-socket-store) — small libraries for managing Socket.IO client state
+
+## Links
+
+- [Blog](https://nerdchanii.github.io)
