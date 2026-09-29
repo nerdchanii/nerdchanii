@@ -12,6 +12,12 @@ A fast, Rust-based package manager for Node.js. Alongside package-management wor
 
 `Rust` · `CLI` · `package resolution` · `CI` · `agent workflows`
 
+### [Masters Runners — Running Community Platform](https://github.com/nerdchanii/mastersrunners)
+
+A full-stack monorepo for Korean runners: workout logs, feeds, crews with attendance and QR check-in, challenges, messaging, and notifications. The repository is run as an agent-friendly harness, with ADRs, domain docs, runbooks, and a file-based task queue as the source of truth.
+
+`TypeScript` · `React` · `NestJS` · `Prisma` · `PostgreSQL` · `agent harness`
+
 ### [Jindo — Ollama-based MCP Agent](https://github.com/nerdchanii/jindo)
 
 A local-first MCP agent with separate conversation/function-calling paths, multi-provider routing, built-in tools, and an Ink-based terminal UI.
@@ -23,12 +29,6 @@ A local-first MCP agent with separate conversation/function-calling paths, multi
 A collaborative document workspace built around rich Markdown editing, CRDT-based real-time synchronization, offline recovery, and document checkpoints.
 
 `React` · `TypeScript` · `TipTap` · `Yjs` · `Hocuspocus` · `NestJS` · `PostgreSQL`
-
-### [New News — News Frame Analysis](https://github.com/nerdchanii/new-news)
-
-An NLP pipeline for discovering framing patterns in Korean news and analyzing their relationship with media bias using topic modeling, classification, statistical analysis, and interactive reports.
-
-`Python` · `NLP` · `BERTopic` · `KoBERT` · `ML`
 
 ## What I care about
 
