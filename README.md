@@ -40,6 +40,7 @@ A collaborative document workspace built around rich Markdown editing, CRDT-base
 ## Earlier open-source work
 
 - [socket-store](https://github.com/nerdchanii/socket-store) / [react-socket-store](https://github.com/nerdchanii/react-socket-store) — small libraries for managing WebSocket message state (a framework-agnostic core and its React bindings)
+- [socket.io-client-store](https://github.com/nerdchanii/socket.io-client-store) — a Redux-inspired store for socket.io-client
 
 ## Links
 
